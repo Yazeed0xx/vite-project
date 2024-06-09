@@ -1,0 +1,19 @@
+.card{
+    display: flex;
+    justify-content: space-between;
+
+   
+
+    background-color: aqua;
+    text-align: center;
+    
+}
+.card1{
+    border: 10px black solid;
+    
+}
+
+li{
+    list-style: none;
+}
+
